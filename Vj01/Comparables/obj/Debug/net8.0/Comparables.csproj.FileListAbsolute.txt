@@ -12,3 +12,4 @@
 /home/robi/Basic Structure/Vj01/Comparables/obj/Debug/net8.0/Comparables.pdb
 /home/robi/Basic Structure/Vj01/Comparables/obj/Debug/net8.0/Comparables.genruntimeconfig.cache
 /home/robi/Basic Structure/Vj01/Comparables/obj/Debug/net8.0/ref/Comparables.dll
+/home/robi/Basic Structure/Vj01/Comparables/obj/Debug/net8.0/Comparables.sourcelink.json

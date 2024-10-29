@@ -1,0 +1,5 @@
+/home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/Comparers.GeneratedMSBuildEditorConfig.editorconfig
+/home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/Comparers.AssemblyInfoInputs.cache
+/home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/Comparers.AssemblyInfo.cs
+/home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/Comparers.csproj.CoreCompileInputs.cache
+/home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/Comparers.sourcelink.json
