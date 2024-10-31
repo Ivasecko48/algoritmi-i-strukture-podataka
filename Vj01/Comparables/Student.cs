@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Comparables
 
 {
-    public class Student : IComparable<Student>
+    public class Student : IComparable
     {
         private string name;
         private double grade;
