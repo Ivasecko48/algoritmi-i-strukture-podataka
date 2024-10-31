@@ -31,9 +31,9 @@ namespace Comparers
                 Console.WriteLine(i.ToString());
             }
 
-            comparer = new StudentComparer(StudentComparerType.Grade);
+            StudentComparer comparerOcjena = new StudentComparer(StudentComparerType.Grade);
 
-            Bubble.Sort(students, comparer);
+            Bubble.Sort(students, comparerOcjena);
 
 			Console.WriteLine("Studenti sortirani po ocjeni:");
 			 foreach (Student i in students)

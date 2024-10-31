@@ -9,14 +9,14 @@ namespace Comparers
 {
     public class Student
     {
-        private string name;
-        private double grade;
+        public string Name;
+        public double Grade;
 
-        public Student(string name, double grade) { this.name = name; this.grade = grade; }
+        public Student(string Name, double Grade) { this.Name = Name; this.Grade = Grade; }
 
         public override string? ToString()
         {
-            return name;
+            return Name;
         }
     }
 }
