@@ -16,7 +16,7 @@ namespace Comparers
 
         public override string? ToString()
         {
-            return Name;
+            return "Student name: " + Name + " and student grade: " + Grade;
         }
     }
 }

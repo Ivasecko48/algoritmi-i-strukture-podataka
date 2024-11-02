@@ -12,3 +12,4 @@
 /home/robi/Basic Structure/Vj01/Parameters/obj/Debug/net8.0/Parameters.pdb
 /home/robi/Basic Structure/Vj01/Parameters/obj/Debug/net8.0/Parameters.genruntimeconfig.cache
 /home/robi/Basic Structure/Vj01/Parameters/obj/Debug/net8.0/ref/Parameters.dll
+/home/robi/Basic Structure/Vj01/Parameters/obj/Debug/net8.0/Parameters.sourcelink.json
