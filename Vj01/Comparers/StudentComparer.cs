@@ -8,7 +8,7 @@ namespace Comparers
 {
 	public enum StudentComparerType { Name, Grade }
 
-    public class StudentComparer : IComparer
+    public class StudentComparer : IComparer<Student>
     {
         private StudentComparerType criterion;
 

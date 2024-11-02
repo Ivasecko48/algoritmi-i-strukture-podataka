@@ -3,3 +3,13 @@
 /home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/Comparers.AssemblyInfo.cs
 /home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/Comparers.csproj.CoreCompileInputs.cache
 /home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/Comparers.sourcelink.json
+/home/robi/Basic Structure/Vj01/Comparers/bin/Debug/net8.0/Comparers
+/home/robi/Basic Structure/Vj01/Comparers/bin/Debug/net8.0/Comparers.deps.json
+/home/robi/Basic Structure/Vj01/Comparers/bin/Debug/net8.0/Comparers.runtimeconfig.json
+/home/robi/Basic Structure/Vj01/Comparers/bin/Debug/net8.0/Comparers.dll
+/home/robi/Basic Structure/Vj01/Comparers/bin/Debug/net8.0/Comparers.pdb
+/home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/Comparers.dll
+/home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/refint/Comparers.dll
+/home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/Comparers.pdb
+/home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/Comparers.genruntimeconfig.cache
+/home/robi/Basic Structure/Vj01/Comparers/obj/Debug/net8.0/ref/Comparers.dll

@@ -4,17 +4,17 @@ namespace Comparers
 {
     public class Bubble
     {
-        public static void Sort(object[] array, IComparer comparer)
+        public static void Sort(Student[] students, IComparer<Student> comparer)
         {
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < students.Length; i++)
             {
-                for (int j = i + 1; j < array.Length; j++)
+                for (int j = i + 1; j < students.Length; j++)
                 {
-                    if (comparer.Compare(array[j], array[i]) < 0)
+                    if (comparer.Compare(students[j], students[i]) < 0)
                     {
-                        object temp = array[j];
-                        array[j] = array[i];
-                        array[i] = temp;
+                        Student temp = students[j];
+                        students[j] = students[i];
+                        students[i] = temp;
                     }
                 }
             }

@@ -14,11 +14,18 @@ namespace Comparables
 
         public Student(string name, double grade) { this.name = name; this.grade = grade; }
 
-        public int CompareTo(Student? other)
+        public int CompareTo(object? obj)
         {
-             if (other == null) return 1;
+             if (obj == null) return 1;
 
-             return this.grade.CompareTo(other.grade);
+              if (obj is Student otherStudent)
+             {
+            return this.grade.CompareTo(otherStudent.grade);
+            }
+             else
+             {
+            throw new ArgumentException("Object is not a Student");
+            }
         }
 
         public override string? ToString()
