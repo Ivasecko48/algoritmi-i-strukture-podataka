@@ -1,0 +1,15 @@
+/home/robi/Basic Structure/Vj01/Delegates/bin/Debug/net8.0/Delegates
+/home/robi/Basic Structure/Vj01/Delegates/bin/Debug/net8.0/Delegates.deps.json
+/home/robi/Basic Structure/Vj01/Delegates/bin/Debug/net8.0/Delegates.runtimeconfig.json
+/home/robi/Basic Structure/Vj01/Delegates/bin/Debug/net8.0/Delegates.dll
+/home/robi/Basic Structure/Vj01/Delegates/bin/Debug/net8.0/Delegates.pdb
+/home/robi/Basic Structure/Vj01/Delegates/obj/Debug/net8.0/Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/robi/Basic Structure/Vj01/Delegates/obj/Debug/net8.0/Delegates.AssemblyInfoInputs.cache
+/home/robi/Basic Structure/Vj01/Delegates/obj/Debug/net8.0/Delegates.AssemblyInfo.cs
+/home/robi/Basic Structure/Vj01/Delegates/obj/Debug/net8.0/Delegates.csproj.CoreCompileInputs.cache
+/home/robi/Basic Structure/Vj01/Delegates/obj/Debug/net8.0/Delegates.sourcelink.json
+/home/robi/Basic Structure/Vj01/Delegates/obj/Debug/net8.0/Delegates.dll
+/home/robi/Basic Structure/Vj01/Delegates/obj/Debug/net8.0/refint/Delegates.dll
+/home/robi/Basic Structure/Vj01/Delegates/obj/Debug/net8.0/Delegates.pdb
+/home/robi/Basic Structure/Vj01/Delegates/obj/Debug/net8.0/Delegates.genruntimeconfig.cache
+/home/robi/Basic Structure/Vj01/Delegates/obj/Debug/net8.0/ref/Delegates.dll

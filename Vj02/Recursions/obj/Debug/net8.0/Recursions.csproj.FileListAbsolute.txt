@@ -1,0 +1,15 @@
+/home/robi/Basic Structure/Vj02/Recursions/obj/Debug/net8.0/Recursions.GeneratedMSBuildEditorConfig.editorconfig
+/home/robi/Basic Structure/Vj02/Recursions/obj/Debug/net8.0/Recursions.AssemblyInfoInputs.cache
+/home/robi/Basic Structure/Vj02/Recursions/obj/Debug/net8.0/Recursions.AssemblyInfo.cs
+/home/robi/Basic Structure/Vj02/Recursions/obj/Debug/net8.0/Recursions.csproj.CoreCompileInputs.cache
+/home/robi/Basic Structure/Vj02/Recursions/obj/Debug/net8.0/Recursions.sourcelink.json
+/home/robi/Basic Structure/Vj02/Recursions/bin/Debug/net8.0/Recursions
+/home/robi/Basic Structure/Vj02/Recursions/bin/Debug/net8.0/Recursions.deps.json
+/home/robi/Basic Structure/Vj02/Recursions/bin/Debug/net8.0/Recursions.runtimeconfig.json
+/home/robi/Basic Structure/Vj02/Recursions/bin/Debug/net8.0/Recursions.dll
+/home/robi/Basic Structure/Vj02/Recursions/bin/Debug/net8.0/Recursions.pdb
+/home/robi/Basic Structure/Vj02/Recursions/obj/Debug/net8.0/Recursions.dll
+/home/robi/Basic Structure/Vj02/Recursions/obj/Debug/net8.0/refint/Recursions.dll
+/home/robi/Basic Structure/Vj02/Recursions/obj/Debug/net8.0/Recursions.pdb
+/home/robi/Basic Structure/Vj02/Recursions/obj/Debug/net8.0/Recursions.genruntimeconfig.cache
+/home/robi/Basic Structure/Vj02/Recursions/obj/Debug/net8.0/ref/Recursions.dll
