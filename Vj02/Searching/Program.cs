@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Diagnostics;
+using System.Threading;
 
 namespace Searching{
 	class Program{
@@ -11,10 +13,10 @@ namespace Searching{
 		}
 
 		static int BinarySearch(int[] array, int value){
-			int l=0;
-			int h=array.Length - 1 ;
+			int low=0;
+			int high=array.Length - 1 ;
 			while(low<=high){
-				int mid= (l+h)/2;
+				int mid= (low+high)/2;
 				if(array[mid]==value) return mid;
 				else if (array[mid]<value)
 				low=mid + 1;
@@ -34,8 +36,14 @@ namespace Searching{
 
 		}
 		static void Main(){
-			int[] array = { 1, 2, 3, 4, 5, 6, 7 };
-			
+			int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+			int index = SequentialSearch(array,6);
+			Console.WriteLine("index: " + index);
+			index = BinarySearch(array,6);
+			Console.WriteLine("index: " + index);
+			index = BinarySearch(array,6,0,6);
+			Console.WriteLine("index: " + index);
 		}
+		
 	}
 }

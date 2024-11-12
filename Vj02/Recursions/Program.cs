@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Diagnostics;
+using System.Threading;
 namespace Recursions{
 	class Program{
 		static int Factorial(int n)
@@ -11,6 +13,7 @@ namespace Recursions{
 			return n;
 			return Fibonacci(n-1) + Fibonacci(n-2);
 		}
+		
 		public static int FibonacciIter(int n){
 			if (n<=1)
 			return n;
@@ -26,12 +29,31 @@ namespace Recursions{
 			}
 			
 			static void Main(){
+			
+				Stopwatch stopWatch = new Stopwatch();
+
 				int result = Factorial(6);
 				Console.WriteLine("6!=" + result);
-				result = Fibonacci(6);
-				Console.WriteLine("Fibonacci od 6 = " + result);
-				result = FibonacciIter(6);
-				Console.WriteLine("FibonacciIter od 6 = " + result);
-			}
+
+				stopWatch.Start();
+				result = Fibonacci(48);
+				stopWatch.Stop();
+				TimeSpan ts = stopWatch.Elapsed;    
+				string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
+                ts.Hours, ts.Minutes, ts.Seconds, ts.Milliseconds / 10);  
+				
+				Console.WriteLine("Fibonacci = " + result);
+				Console.WriteLine("RunTime " + elapsedTime);
+				
+				stopWatch.Restart();
+				result = FibonacciIter(48);
+				stopWatch.Stop();
+				ts = stopWatch.Elapsed; 
+				elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
+                ts.Hours, ts.Minutes, ts.Seconds, ts.Milliseconds / 10);  
+				Console.WriteLine("FibonacciIter = " + result);     
+				Console.WriteLine("RunTime " + elapsedTime);
+        
 	}
+}
 }

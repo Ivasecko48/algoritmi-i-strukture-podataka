@@ -1,0 +1,15 @@
+/home/robi/Basic Structure/Vj02/Searching/obj/Debug/net8.0/Searching.GeneratedMSBuildEditorConfig.editorconfig
+/home/robi/Basic Structure/Vj02/Searching/obj/Debug/net8.0/Searching.AssemblyInfoInputs.cache
+/home/robi/Basic Structure/Vj02/Searching/obj/Debug/net8.0/Searching.AssemblyInfo.cs
+/home/robi/Basic Structure/Vj02/Searching/obj/Debug/net8.0/Searching.csproj.CoreCompileInputs.cache
+/home/robi/Basic Structure/Vj02/Searching/obj/Debug/net8.0/Searching.sourcelink.json
+/home/robi/Basic Structure/Vj02/Searching/bin/Debug/net8.0/Searching
+/home/robi/Basic Structure/Vj02/Searching/bin/Debug/net8.0/Searching.deps.json
+/home/robi/Basic Structure/Vj02/Searching/bin/Debug/net8.0/Searching.runtimeconfig.json
+/home/robi/Basic Structure/Vj02/Searching/bin/Debug/net8.0/Searching.dll
+/home/robi/Basic Structure/Vj02/Searching/bin/Debug/net8.0/Searching.pdb
+/home/robi/Basic Structure/Vj02/Searching/obj/Debug/net8.0/Searching.dll
+/home/robi/Basic Structure/Vj02/Searching/obj/Debug/net8.0/refint/Searching.dll
+/home/robi/Basic Structure/Vj02/Searching/obj/Debug/net8.0/Searching.pdb
+/home/robi/Basic Structure/Vj02/Searching/obj/Debug/net8.0/Searching.genruntimeconfig.cache
+/home/robi/Basic Structure/Vj02/Searching/obj/Debug/net8.0/ref/Searching.dll
