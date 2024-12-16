@@ -1,0 +1,14 @@
+/home/robi/Basic Structure/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/robi/Basic Structure/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/home/robi/Basic Structure/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/home/robi/Basic Structure/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/home/robi/Basic Structure/Interfaces/bin/Debug/net8.0/Interfaces
+/home/robi/Basic Structure/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/home/robi/Basic Structure/Interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/home/robi/Basic Structure/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/home/robi/Basic Structure/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/home/robi/Basic Structure/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/home/robi/Basic Structure/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/home/robi/Basic Structure/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/home/robi/Basic Structure/Interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/home/robi/Basic Structure/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll

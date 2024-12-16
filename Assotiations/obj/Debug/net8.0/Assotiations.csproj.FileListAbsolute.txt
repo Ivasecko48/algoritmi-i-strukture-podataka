@@ -1,0 +1,14 @@
+/home/robi/Basic Structure/Assotiations/bin/Debug/net8.0/Assotiations
+/home/robi/Basic Structure/Assotiations/bin/Debug/net8.0/Assotiations.deps.json
+/home/robi/Basic Structure/Assotiations/bin/Debug/net8.0/Assotiations.runtimeconfig.json
+/home/robi/Basic Structure/Assotiations/bin/Debug/net8.0/Assotiations.dll
+/home/robi/Basic Structure/Assotiations/bin/Debug/net8.0/Assotiations.pdb
+/home/robi/Basic Structure/Assotiations/obj/Debug/net8.0/Assotiations.GeneratedMSBuildEditorConfig.editorconfig
+/home/robi/Basic Structure/Assotiations/obj/Debug/net8.0/Assotiations.AssemblyInfoInputs.cache
+/home/robi/Basic Structure/Assotiations/obj/Debug/net8.0/Assotiations.AssemblyInfo.cs
+/home/robi/Basic Structure/Assotiations/obj/Debug/net8.0/Assotiations.csproj.CoreCompileInputs.cache
+/home/robi/Basic Structure/Assotiations/obj/Debug/net8.0/Assotiations.dll
+/home/robi/Basic Structure/Assotiations/obj/Debug/net8.0/refint/Assotiations.dll
+/home/robi/Basic Structure/Assotiations/obj/Debug/net8.0/Assotiations.pdb
+/home/robi/Basic Structure/Assotiations/obj/Debug/net8.0/Assotiations.genruntimeconfig.cache
+/home/robi/Basic Structure/Assotiations/obj/Debug/net8.0/ref/Assotiations.dll

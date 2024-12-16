@@ -1,0 +1,22 @@
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/Stack.csproj.AssemblyReference.cache
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/Stack.AssemblyInfoInputs.cache
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/Stack.AssemblyInfo.cs
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/Stack.csproj.CoreCompileInputs.cache
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/Stack.sourcelink.json
+/home/robi/Basic Structure/Stack/vj05/Stack/bin/Debug/net8.0/Single List.deps.json
+/home/robi/Basic Structure/Stack/vj05/Stack/bin/Debug/net8.0/Single List.runtimeconfig.json
+/home/robi/Basic Structure/Stack/vj05/Stack/bin/Debug/net8.0/Single List
+/home/robi/Basic Structure/Stack/vj05/Stack/bin/Debug/net8.0/Stack
+/home/robi/Basic Structure/Stack/vj05/Stack/bin/Debug/net8.0/Stack.deps.json
+/home/robi/Basic Structure/Stack/vj05/Stack/bin/Debug/net8.0/Stack.runtimeconfig.json
+/home/robi/Basic Structure/Stack/vj05/Stack/bin/Debug/net8.0/Stack.dll
+/home/robi/Basic Structure/Stack/vj05/Stack/bin/Debug/net8.0/Stack.pdb
+/home/robi/Basic Structure/Stack/vj05/Stack/bin/Debug/net8.0/Single List.dll
+/home/robi/Basic Structure/Stack/vj05/Stack/bin/Debug/net8.0/Single List.pdb
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/Stack.csproj.Up2Date
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/Stack.dll
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/refint/Stack.dll
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/Stack.pdb
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/Stack.genruntimeconfig.cache
+/home/robi/Basic Structure/Stack/vj05/Stack/obj/Debug/net8.0/ref/Stack.dll

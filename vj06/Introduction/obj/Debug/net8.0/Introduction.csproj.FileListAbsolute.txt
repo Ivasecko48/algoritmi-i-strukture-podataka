@@ -1,0 +1,15 @@
+/home/robi/Basic Structure/vj06/Introduction/obj/Debug/net8.0/Introduction.GeneratedMSBuildEditorConfig.editorconfig
+/home/robi/Basic Structure/vj06/Introduction/obj/Debug/net8.0/Introduction.AssemblyInfoInputs.cache
+/home/robi/Basic Structure/vj06/Introduction/obj/Debug/net8.0/Introduction.AssemblyInfo.cs
+/home/robi/Basic Structure/vj06/Introduction/obj/Debug/net8.0/Introduction.csproj.CoreCompileInputs.cache
+/home/robi/Basic Structure/vj06/Introduction/obj/Debug/net8.0/Introduction.sourcelink.json
+/home/robi/Basic Structure/vj06/Introduction/bin/Debug/net8.0/Introduction
+/home/robi/Basic Structure/vj06/Introduction/bin/Debug/net8.0/Introduction.deps.json
+/home/robi/Basic Structure/vj06/Introduction/bin/Debug/net8.0/Introduction.runtimeconfig.json
+/home/robi/Basic Structure/vj06/Introduction/bin/Debug/net8.0/Introduction.dll
+/home/robi/Basic Structure/vj06/Introduction/bin/Debug/net8.0/Introduction.pdb
+/home/robi/Basic Structure/vj06/Introduction/obj/Debug/net8.0/Introduction.dll
+/home/robi/Basic Structure/vj06/Introduction/obj/Debug/net8.0/refint/Introduction.dll
+/home/robi/Basic Structure/vj06/Introduction/obj/Debug/net8.0/Introduction.pdb
+/home/robi/Basic Structure/vj06/Introduction/obj/Debug/net8.0/Introduction.genruntimeconfig.cache
+/home/robi/Basic Structure/vj06/Introduction/obj/Debug/net8.0/ref/Introduction.dll

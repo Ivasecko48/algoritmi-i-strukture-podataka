@@ -1,0 +1,15 @@
+/home/robi/Basic Structure/vj06/Constraints/bin/Debug/net8.0/Constraints
+/home/robi/Basic Structure/vj06/Constraints/bin/Debug/net8.0/Constraints.deps.json
+/home/robi/Basic Structure/vj06/Constraints/bin/Debug/net8.0/Constraints.runtimeconfig.json
+/home/robi/Basic Structure/vj06/Constraints/bin/Debug/net8.0/Constraints.dll
+/home/robi/Basic Structure/vj06/Constraints/bin/Debug/net8.0/Constraints.pdb
+/home/robi/Basic Structure/vj06/Constraints/obj/Debug/net8.0/Constraints.GeneratedMSBuildEditorConfig.editorconfig
+/home/robi/Basic Structure/vj06/Constraints/obj/Debug/net8.0/Constraints.AssemblyInfoInputs.cache
+/home/robi/Basic Structure/vj06/Constraints/obj/Debug/net8.0/Constraints.AssemblyInfo.cs
+/home/robi/Basic Structure/vj06/Constraints/obj/Debug/net8.0/Constraints.csproj.CoreCompileInputs.cache
+/home/robi/Basic Structure/vj06/Constraints/obj/Debug/net8.0/Constraints.sourcelink.json
+/home/robi/Basic Structure/vj06/Constraints/obj/Debug/net8.0/Constraints.dll
+/home/robi/Basic Structure/vj06/Constraints/obj/Debug/net8.0/refint/Constraints.dll
+/home/robi/Basic Structure/vj06/Constraints/obj/Debug/net8.0/Constraints.pdb
+/home/robi/Basic Structure/vj06/Constraints/obj/Debug/net8.0/Constraints.genruntimeconfig.cache
+/home/robi/Basic Structure/vj06/Constraints/obj/Debug/net8.0/ref/Constraints.dll

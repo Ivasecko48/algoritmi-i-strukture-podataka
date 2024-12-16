@@ -1,0 +1,15 @@
+/home/robi/Basic Structure/vj03/Selection/bin/Debug/net8.0/Selection
+/home/robi/Basic Structure/vj03/Selection/bin/Debug/net8.0/Selection.deps.json
+/home/robi/Basic Structure/vj03/Selection/bin/Debug/net8.0/Selection.runtimeconfig.json
+/home/robi/Basic Structure/vj03/Selection/bin/Debug/net8.0/Selection.dll
+/home/robi/Basic Structure/vj03/Selection/bin/Debug/net8.0/Selection.pdb
+/home/robi/Basic Structure/vj03/Selection/obj/Debug/net8.0/Selection.GeneratedMSBuildEditorConfig.editorconfig
+/home/robi/Basic Structure/vj03/Selection/obj/Debug/net8.0/Selection.AssemblyInfoInputs.cache
+/home/robi/Basic Structure/vj03/Selection/obj/Debug/net8.0/Selection.AssemblyInfo.cs
+/home/robi/Basic Structure/vj03/Selection/obj/Debug/net8.0/Selection.csproj.CoreCompileInputs.cache
+/home/robi/Basic Structure/vj03/Selection/obj/Debug/net8.0/Selection.sourcelink.json
+/home/robi/Basic Structure/vj03/Selection/obj/Debug/net8.0/Selection.dll
+/home/robi/Basic Structure/vj03/Selection/obj/Debug/net8.0/refint/Selection.dll
+/home/robi/Basic Structure/vj03/Selection/obj/Debug/net8.0/Selection.pdb
+/home/robi/Basic Structure/vj03/Selection/obj/Debug/net8.0/Selection.genruntimeconfig.cache
+/home/robi/Basic Structure/vj03/Selection/obj/Debug/net8.0/ref/Selection.dll
