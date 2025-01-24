@@ -2,14 +2,14 @@ using System;
 using System.Collections;
 
 namespace ShortestPath{
-	class PartiallyOrderedTree:IEnumerable{
+	public class PartiallyOrderedTree:IEnumerable{
 		internal int[] queue;
 		Graph graph;
 		public int last;
 
 		public PartiallyOrderedTree(Graph graph){
 			this.graph = graph;
-			this.last = graph.vertices.length;
+			this.last = graph.vertices.Length;
 			queue = new int[last + 1];
 			queue[0] = -1;
 

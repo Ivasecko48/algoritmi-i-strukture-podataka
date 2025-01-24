@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/robi/Basic Structure/vj09/Shortest Path/Shortest Path.csproj": {}
+    "C:\\Users\\robyz\\Desktop\\faks\\algo\\algoritmi-i-strukture-podataka\\vj09\\Shortest Path\\Shortest Path.csproj": {}
   },
   "projects": {
-    "/home/robi/Basic Structure/vj09/Shortest Path/Shortest Path.csproj": {
+    "C:\\Users\\robyz\\Desktop\\faks\\algo\\algoritmi-i-strukture-podataka\\vj09\\Shortest Path\\Shortest Path.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/robi/Basic Structure/vj09/Shortest Path/Shortest Path.csproj",
+        "projectUniqueName": "C:\\Users\\robyz\\Desktop\\faks\\algo\\algoritmi-i-strukture-podataka\\vj09\\Shortest Path\\Shortest Path.csproj",
         "projectName": "Shortest Path",
-        "projectPath": "/home/robi/Basic Structure/vj09/Shortest Path/Shortest Path.csproj",
-        "packagesPath": "/home/robi/.nuget/packages/",
-        "outputPath": "/home/robi/Basic Structure/vj09/Shortest Path/obj/",
+        "projectPath": "C:\\Users\\robyz\\Desktop\\faks\\algo\\algoritmi-i-strukture-podataka\\vj09\\Shortest Path\\Shortest Path.csproj",
+        "packagesPath": "C:\\Users\\robyz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\robyz\\Desktop\\faks\\algo\\algoritmi-i-strukture-podataka\\vj09\\Shortest Path\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/robi/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\robyz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/255/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

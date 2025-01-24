@@ -1,0 +1,15 @@
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\obj\Debug\net8.0\Shortest Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\obj\Debug\net8.0\Shortest Path.AssemblyInfoInputs.cache
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\obj\Debug\net8.0\Shortest Path.AssemblyInfo.cs
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\obj\Debug\net8.0\Shortest Path.csproj.CoreCompileInputs.cache
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\obj\Debug\net8.0\Shortest Path.sourcelink.json
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\bin\Debug\net8.0\Shortest Path.exe
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\bin\Debug\net8.0\Shortest Path.deps.json
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\bin\Debug\net8.0\Shortest Path.runtimeconfig.json
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\bin\Debug\net8.0\Shortest Path.dll
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\bin\Debug\net8.0\Shortest Path.pdb
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\obj\Debug\net8.0\Shortest Path.dll
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\obj\Debug\net8.0\refint\Shortest Path.dll
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\obj\Debug\net8.0\Shortest Path.pdb
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\obj\Debug\net8.0\Shortest Path.genruntimeconfig.cache
+C:\Users\robyz\Desktop\faks\algo\algoritmi-i-strukture-podataka\vj09\Shortest Path\obj\Debug\net8.0\ref\Shortest Path.dll
