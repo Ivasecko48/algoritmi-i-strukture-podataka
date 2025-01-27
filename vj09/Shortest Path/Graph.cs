@@ -54,15 +54,6 @@ namespace ShortestPath{
             // Postavi početni čvor na 0 udaljenost
             this.vertices[0].Distance = 0;
 
-            // Kreiraj PartiallyOrderedTree (min-heap) za praćenje čvorova prema prioritetima
-            PartiallyOrderedTree pot = new PartiallyOrderedTree(this);
-
-            // Dodaj sve čvorove u prioritetni red
-            for (int i = 0; i < vertices.Length; i++)
-            {
-                pot.BubbleUp(i + 1); // Osiguraj da su svi čvorovi uključeni u prioritetni red
-               
-            }
 
             List<int> settled = new List<int>();
 
@@ -103,14 +94,13 @@ settled.Add(currentIndex);
                          Console.WriteLine($"Updated Distance for Vertex Q{neighbor.Index}: {neighbor.Distance}");
                     }
                 }
-                        pot.Display();
-            }
             Display();
-            // Prikaz rezultata
-            // foreach (var vertex in this.vertices)
-            // {
-            //     Console.WriteLine($"Shortest distance to node {vertex.Source}: {vertex.Distance}");
-            // }
+            }
+            //Prikaz rezultata
+            foreach (var vertex in this.vertices)
+            {
+                Console.WriteLine($"Shortest distance to node {vertex.Source}: {vertex.Distance}");
+            }
         }
 
     }

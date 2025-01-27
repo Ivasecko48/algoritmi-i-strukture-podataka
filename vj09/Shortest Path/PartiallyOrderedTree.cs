@@ -23,6 +23,9 @@ namespace ShortestPath{
 			int temp = queue[a];
 			queue[a]=queue[b];
 			queue[b]=temp;
+
+			graph.vertices[queue[a]].Index = a;
+			graph.vertices[queue[b]].Index = b;
 		}
 
 		double GetPriority(int a){
